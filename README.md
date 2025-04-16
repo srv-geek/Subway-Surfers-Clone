@@ -1,7 +1,7 @@
 # SUBWAY-SURFER-GAME
 
 # DEVELOPER
-		ADITYA JAIN PANSARI
+		Shubham Raj
 # Running the game
 * To run the game enter these command in the directory of the game:
 		run	index.html using firefox 
